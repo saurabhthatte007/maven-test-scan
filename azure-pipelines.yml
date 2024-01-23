@@ -22,3 +22,5 @@ steps:
   inputs:
     serviceConnection: 'sec1'
     thresholdCheck: true
+    critical: '1'
+    high: '1'
